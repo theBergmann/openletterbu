@@ -3,7 +3,7 @@
 
 We, the undersigners, are longterm members of BU and the Big Block community. We kept the desire to increase the Bitcoin-blockchain alive, kept the Big Block community together and did, each by his own activities, all we could to further a future of Big-Block-Bitcoin, most of us since 2015 or 2016.
 
-After several prominent actors of Bitcoin ABC left Bitcoin Unlimited with salty farebadly letters, BU has become under pressure from the public BCH community. It shows too much support for BSV, is claimed, and some members even voiced sympathy for the lawsuit taggling on open source developers which admiredly conspirated with exchanges to establish the ABC version of the November hard fork as asigned to the ticker symbol BCH. In this letter we answer the accusations of the community.
+After several prominent actors of Bitcoin ABC left Bitcoin Unlimited with salty farebadly letters, BU has become under pressure from the public BCH community. It shows too much support for BSV, is claimed, and some members even voiced sympathy for the lawsuit taggling on open source developers which are accused of having conspirated with exchanges to establish the ABC version of the November hard fork as asigned to the ticker symbol BCH. In this letter we answer the accusations of the community.
 
 The short version is: We don't give a shit. The developers of BU work on the software they prefer, the members of BU support the versions of Bitcoin they prefer. If you don't like this, it's not our problem. You can bully BU out from BCH, but this will not stop BU to develop and run nodes for BCH; as well as bullying will not prevent them to develop and run clients for BSV and offer business a software to use Bitcoin Cash.
 
