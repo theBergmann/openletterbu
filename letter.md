@@ -1,1 +1,24 @@
 
+## An Open Letter from longterm BU-Members about the current situation in BCH ##
+
+We, the undersigners, are longterm members of BU and the Big Block community. We kept the desire to increase the Bitcoin-blockchain alive, kept the Big Block community together and did, each by his own activities, all we could to further a future of Big-Block-Bitcoin, most of us since 2015 or 2016.
+
+After several prominent actors of Bitcoin ABC left Bitcoin Unlimited with salty farebadly letters, BU has become under pressure from the public BCH community. It shows too much support for BSV, is claimed, and some members even voiced sympathy for the lawsuit taggling on open source developers which admiredly conspirated with exchanges to establish the ABC version of the November hard fork as asigned to the ticker symbol BCH. In this letter we answer the accusations of the community.
+
+The short version is: We don't give a shit. The developers of BU work on the software they prefer, the members of BU support the versions of Bitcoin they prefer. If you don't like this, it's not our problem. You can bully BU out from BCH, but this will not stop BU to develop and run nodes for BCH; as well as bullying will not prevent them to develop and run clients for BSV.
+
+You don't like the opinion of some BU members, regarding lawsuits or certain individuals? We don't care. The members of BU are free people with their own mind - which was the basic reason they joined BU in a time when this lead to severe public reputation losses. BU is a manifestation of the desire of individuals to think for themselves. We will not stop this because you don't like what we think.
+
+Yes, some of us think Craig Wright is Satoshi. Some of us think that ABC deserves to be punished by law for what they have done to Bitcoin Cash. And it's our right to have our own opinions, no matter how much you hate it that you disagree with us.
+
+BU is the second non-core C++ client after BitcoinXT. It lead the scaling wars in 2016 and early 2017, keeping the movement alive. BU established itself as the client with the best scaling properties, setting standards, unachieved by other implementations. At the same time BU created an environment, in which a qualitative exchange of big blocker's knowledge was possible, and in which non developers could vote on the direction of the project, including protocol changes, software upgrades, conferences, scientific projects, research and more.
+
+The community around BU was the craddle in which Amaury Sechet, "benevolent" dictator of ABC, learned to code Bitcoin and in which he made his contacts. The conference in which Amaury presented ABC was organized by BU, and the environment, that helped Bitcoin Cash to flourish, was only there because BU kept it alive. Without BU ABC and BCH would not exist in the first place.
+
+Many members of BU have not been happy about the split from BTC. Many would have prefered that the battle over Bitcoin would last, instead of escaping on another chain. But as most were tired from the long-year-fightings, things quickly settled on BCH. 
+
+In the communication with Amaury many things quickly turned bad. There is a long list of arrogance and insults from him, for example in the mailing list, which the ABC developers left after a short time; Amaurys difficulty adjustment algorithm turned out to a mess; in the discussion of a replacing algorithm, ABC chosed one, mostly because it was created by Amaury, while most prefered Tom Harding's algorithm, and so on and so on. Amaury introduced two bugs in the code - one was corrected by Core, one by Unlimited - fabricated a chain split to get CTOR in the code, and, as if it was not bad enough for 1.5 years: Injected a bug which made the BCH send to SegWit addresses unrecoverable.
+
+Before the split, BU suggested to just delay CTOR, as it was contentious. Before the split, BU and XT suggested a mechanism to let miners decide. ABC rejected all these attempts to keep the chain together, and BU did still default on being compatible with ABC. Now, a few month after the fork, after ABC ignored what BU suggested - which did significantly damage BCH - they accuse BU members of being not strongly enough against BSV. As if the damage would not have happened, if BU would have acted as irresponsible as ABC.
+
+The BU members will not excuse for having tried to keep the chain together. Bitcoin Cash has never needed BU more than ever, as an alternative to a leading development teams which demonstrates hubris, toxic behaviour and irresponsibility. If you don't like it that BU stays here - we don't care. We are interested in a future of BCH - and BSV - and will further this.
