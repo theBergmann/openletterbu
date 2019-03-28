@@ -9,7 +9,7 @@ The short version is: We don't give a shit. The developers of BU work on the sof
 
 You don't like the opinion of some BU members, regarding lawsuits or certain individuals? We don't care. The members of BU are free people with their own mind - which was the basic reason they joined BU in a time when this lead to severe public reputation losses. BU is a manifestation of the desire of individuals to think for themselves. We will not stop this because you don't like what we think.
 
-Yes, some of us think Craig Wright is Satoshi. Some of us think that ABC deserves to be punished by law for what they have done to Bitcoin Cash. And it's our right to have our own opinions, no matter how much you hate it that you disagree with us.
+Yes, some of us think Craig Wright is Satoshi. Some of us think that ABC deserves to be punished by law for what they have done to Bitcoin Cash. Some of us don't share your interpretation of the events leading to the split of Bitcoin Cash in November 2018. And it's our right to have our own opinions, no matter how much you hate it that you disagree with us.
 
 BU is the second non-core C++ client after BitcoinXT. It lead the scaling wars in 2016 and early 2017, keeping the movement alive. BU established itself as the client with the best scaling properties, setting standards, unachieved by other implementations. At the same time BU created an environment, in which a qualitative exchange of big blocker's knowledge was possible, and in which non developers could vote on the direction of the project, including protocol changes, software upgrades, conferences, scientific projects, research and more.
 
