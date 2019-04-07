@@ -23,7 +23,6 @@ Before the split, BU suggested to just delay CTOR, as it was contentious. Before
 
 The BU members will not excuse for having tried to keep the chain together. Bitcoin Cash has never needed BU more than ever, as an alternative to a leading development teams which demonstrates hubris, toxic behaviour and irresponsibility. If you don't like it that BU stays here - we don't care.
 
-To be fair, the other side, BSV, has its own problems too. Development is concentrated on one company, which seems to develop semi open source, while mining is nearly as centralized, node count and adoption remains low, while the top figures of BSV are highly unpopular for a broad audience. There is a wide mistrust that nChain will absuse its power on the protocol to introduce code which serves its patent base.
+To be fair, the other side, BSV, has its own problems too. Development is concentrated on one company, which seems to develop semi open source, while mining is nearly as centralized, and node count and adoption remains low. The top figures of BSV are highly unpopular for a broad audience, and there is a wide mistrust that nChain will absuse its power on the protocol to introduce code which does not serve the chain but their patent base.
 
-Some in the BSV community might not like it also - but BU is here to stay. We will not restrict our choices of cooperating with other teams and of developing on Bitcoin incarnations. 
-
+Some in the BSV community might not like it also - but BU is here to stay. We will not restrict our choices of cooperating with other teams and of developing on Bitcoin incarnations. We will remain open.
